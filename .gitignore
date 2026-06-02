@@ -1,0 +1,19 @@
+# Data (large / licensed - not committed)
+data/
+*.nc
+
+# Trained models
+results/models/
+*.joblib
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

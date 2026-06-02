@@ -1,0 +1,5 @@
+case,top10_overlap,spearman_rho
+false_negative,6,0.5116668417712871
+false_positive,7,0.644658482884254
+true_negative,7,0.6051973397294793
+true_positive,8,0.7328769038793036

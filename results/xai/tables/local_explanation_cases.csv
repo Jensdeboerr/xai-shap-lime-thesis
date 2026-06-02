@@ -1,0 +1,5 @@
+case,valid_time,tp_mm,extreme_precip_99,predicted_probability,predicted_class
+true_positive,2023-07-27 05:00:00,3.1204224,1,0.98565453,1
+false_positive,2023-10-20 11:00:00,1.534462,0,0.98536575,1
+false_negative,2022-06-19 00:00:00,3.0608177,1,0.94991606,0
+true_negative,2022-12-17 22:00:00,0.0,0,0.0041864202,0

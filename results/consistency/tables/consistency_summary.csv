@@ -1,0 +1,5 @@
+case,mean_pairwise_rho_LIME,mean_pairwise_rho_SHAP,mean_top10_overlap_LIME,mean_top10_overlap_SHAP,rho_gap,overlap_gap
+true_positive,0.657,0.984,5.867,9.222,0.327,3.356
+false_positive,0.641,0.986,5.733,9.133,0.345,3.4
+false_negative,0.596,0.949,5.6,8.267,0.353,2.667
+true_negative,0.602,0.974,5.644,8.933,0.372,3.289
