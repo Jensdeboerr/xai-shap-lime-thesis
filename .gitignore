@@ -1,5 +1,9 @@
-# Data (large / licensed - not committed)
-data/
+# Data (large / licensed)
+# Keep data/processed/
+# but exclude raw ERA5 and the uncompressed CSV
+data/raw/*
+!data/raw/README.md
+data/processed/era5_supervised_preprocessed.csv
 *.nc
 
 # Trained models

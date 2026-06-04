@@ -1,0 +1,15 @@
+t2m_c
+d2m_c
+msl_hpa
+sp_hpa
+tcc
+u10
+v10
+wind_speed_10m
+month
+dayofyear
+hour
+month_sin
+month_cos
+hour_sin
+hour_cos
